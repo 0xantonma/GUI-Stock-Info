@@ -5,5 +5,5 @@ API Source: rapidapi.com ( Free Membership )
 Add your api into Constants.py
 
 
-Project level: Easy.
+Project level: Easy.\n
 I will continue it in the future? Yes.
